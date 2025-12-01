@@ -4,6 +4,7 @@ Anesthesia plays a critical role in modern medicine by enabling pain-free surger
 Our system provides a smart and automated solution to assist anesthesiologists by continuously monitoring these critical parameters and automating the anesthesia delivery process through a Servo motor. Additionally, the real-time data is displayed on a Mobile device, ensuring accessibility for healthcare professionals anywhere.
 
 How It Helps:
+
 Our system enhances the role of anesthesiologists by:
 
 • Providing continuous real-time monitoring of patient vitals.
@@ -15,6 +16,7 @@ Our system enhances the role of anesthesiologists by:
 • Improving patient safety during surgery and critical care
 
 Key Features:
+
 • Real-Time Monitoring: Tracks and displays patient vitals such as heart rate, oxygen levels, temperature and other critical parameters to ensure safe administration of anesthesia. 
 
 • Automatic Regulation: Implements precise adjustments of anesthesia dosage based on the patient’s real-time condition, reducing the risk of under or over-dosage. 
