@@ -13,3 +13,8 @@ Our system enhances the role of anesthesiologists by:
 • Reducing human error by automating anesthesia delivery based on monitored parameters.
 
 • Improving patient safety during surgery and critical care
+
+Key Features:
+• Real-Time Monitoring: Tracks and displays patient vitals such as heart rate, oxygen levels, temperature and other critical parameters to ensure safe administration of anesthesia. 
+
+• Automatic Regulation: Implements precise adjustments of anesthesia dosage based on the patient’s real-time condition, reducing the risk of under or over-dosage. 
