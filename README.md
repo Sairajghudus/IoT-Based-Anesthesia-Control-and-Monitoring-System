@@ -5,7 +5,11 @@ Our system provides a smart and automated solution to assist anesthesiologists b
 
 How It Helps:
 Our system enhances the role of anesthesiologists by:
+
 • Providing continuous real-time monitoring of patient vitals.
+
 • Ensuring data accessibility on mobile devices for remote monitoring.
+
 • Reducing human error by automating anesthesia delivery based on monitored parameters.
+
 • Improving patient safety during surgery and critical care
